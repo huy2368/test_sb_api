@@ -1,0 +1,23 @@
+{
+  "name": "vh_shorebird_api",
+  "version": "1.0.0",
+  "description": "VH Shorebird backend to manage apps and their's patches",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shorebird",
+    "codepush"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
