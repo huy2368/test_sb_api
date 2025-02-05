@@ -9,7 +9,7 @@ app.post("/api/v1/patches/check", (req, res) => {
     patch: 
       {
         number: 1,
-        hash: "2f37d442cd864a76b3ccd050e3ec64943ddae95898abfd22a09fac73c5ca061b",
+        hash: "fd53a0d46df03390b80c2d56b8bc7fdba2a7fc73446a82a0e63667cc0d7e30a7",
         download_url:
           "https://raw.githubusercontent.com/huy2368/test-code-push/refs/heads/develop/dlc.vmcode",
         //download_url:"https://cdn.shorebird.cloud/api/v1/patches/935678ec-477f-48ac-90d9-81bbd30d6e64/android/aarch64/113119/dlc.vmcode"
